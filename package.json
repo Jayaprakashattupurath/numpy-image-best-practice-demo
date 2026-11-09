@@ -1,0 +1,12 @@
+{
+  "name": "numpy-image-best-practice-demo",
+  "version": "1.0.0",
+  "description": "Real-time image representation and manipulation demo with NumPy, Node, and React",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
